@@ -1,2 +1,2 @@
 # babel
-next generation nlp processing framework
+next generation nlp framework
